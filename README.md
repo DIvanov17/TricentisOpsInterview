@@ -63,4 +63,4 @@ The architecture will be evaluated based on the following criteria in the given 
 <br/>
 
 # Deliver Results
-Provide your results as a pull request to this repository.
+Provide your solutions as a .zip to your contact at Tricentis.
