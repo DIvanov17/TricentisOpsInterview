@@ -64,3 +64,4 @@ The architecture will be evaluated based on the following criteria in the given 
 
 # Deliver Results
 Provide your solutions as a .zip to your contact at Tricentis.
+There is no time limit for this exercise but the resolution time will be taken into account.
